@@ -1,5 +1,5 @@
 { "name": "IsIt1337",
  "type": "app",
  "icon":"*isit1337",
- "src": "isit1337.js"
+ "src": "-isit1337"
 }
