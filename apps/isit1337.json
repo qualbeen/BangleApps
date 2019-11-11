@@ -1,11 +1,3 @@
-{ "id": "isit1337",
-  "name": "Is it 1337?",
-  "icon": "my-timer.png",
-  "description": "Notifies you if current time is 13:37",
-  "tags": "",
-  "type":"app",
-  "storage": [
-    {"name":"+timer","url":"isit1337.json"},
-    {"name":"-timer","url":"isit1337.js"},
-  ]
-},
+{ "name": "IsIt1337",
+  "src": "isit1337.js"
+}
