@@ -1,3 +1,5 @@
 { "name": "IsIt1337",
-  "src": "isit1337.js"
+ "type": "app",
+ "icon":"*isit1337",
+ "src": "isit1337.js"
 }
