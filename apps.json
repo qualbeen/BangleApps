@@ -323,5 +323,15 @@
       {"name":"-sclock","url":"clock-simple.js"},
       {"name":"*sclock","url":"clock-simple.js","evaluate":true}
     ]
-  }
+  },
+  { "id": "is1337",
+    "name": "Is it 1337",
+    "description": "Gives a notification if current time is 13:37",
+    "tags": "",
+     "type": "app",
+    "storage": [
+      {"name":"+is1337","url":"isit1337.json"},
+      {"name":"-is1337","url":"isit1337.js"},
+    ],
+  },
 ]
